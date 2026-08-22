@@ -19,4 +19,3 @@ Le serveur affiche au démarrage le nombre de chargeurs détectés et modifiés.
 - Testé avec SPT 4.1.2
 - Aucun nouveau profil n'est nécessaire
 - Le mod peut être ajouté ou retiré sans modifier définitivement la sauvegarde
-
